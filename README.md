@@ -1,6 +1,8 @@
 volume-syncing-controller
 =========================
 
+> Notice: Sorry, we no longer have a possibility to maintain this project. Feel free to fork it
+
 Docker container and Kubernetes controller for periodically synchronizing volumes to cloud-native storage, and restoring their state from cloud-native storage.
 
 Example use cases
